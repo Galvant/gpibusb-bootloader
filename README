@@ -1,0 +1,5 @@
+The GPIBUSB project uses the open source Tiny Bootloader.
+
+The project can be found here: http://www.etc.ugal.ro/cchiculita/software/picbootloader.htm
+
+The bootloader is set to communicate at 115200 baud.
